@@ -1,0 +1,6 @@
+{
+  "name": "30분 벼락치기 - 시험 직전 스피드 암기",
+  "description": "시험 직전 30분 동안 핵심 개념과 오답을 빠르게 복습하고 정복하는 플래시카드 스피드 암기 웹 어플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
